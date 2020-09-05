@@ -1,3 +1,6 @@
 [submodule "server/javaScript"]
 	path = server/javaScript
 	url = https://github.com/s06181110/express-crud
+[submodule "server/python"]
+	path = server/python
+	url = https://github.com/uewolf25/flask-crud
