@@ -12,5 +12,6 @@ readmeにもリンクを追加していきましょう。
 - [Server(CRUD)](https://github.com/c-a-c/Summer_study_2020/tree/master/server)  
   - javaScript(by @yoshiki)
   - php(by @sahoI)
+  - python(coming soon ...)
 
 <!-- []() -->
